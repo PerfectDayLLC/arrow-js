@@ -16,7 +16,7 @@ Include the javascript in your HTML
 Or use the minified version
 
 ```html
-<script type="text/javascript" src="node_modules/ArrowJS/dist/arrow-1.0.0.min.js">
+<script type="text/javascript" src="node_modules/ArrowJS/dist/arrow-1.0.1.min.js">
 ```
 
 ### Installing with Bower

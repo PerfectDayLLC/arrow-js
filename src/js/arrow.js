@@ -8,7 +8,7 @@ window.Arrow = (function (window, document, undefined) {
 
     'use strict';
 
-    var version = '0.1.9',
+    var version = '1.0.1',
         Arrow = {},
         arrowNode,
         browser = '',
@@ -215,8 +215,10 @@ window.Arrow = (function (window, document, undefined) {
      * @private
      */
     function _applyStyleWebkit(node) {
-        node.style.bottom = '50px'; 
-        node.style.left = '20px';
+        node.style.top = '0px';
+        node.style.right = '68px';
+        node.style.transform = 'rotateX(180deg) rotateY(180deg)';
+        node.style.MozTransform = 'rotateX(180deg) rotateY(180deg)';
     }
 	
     /**

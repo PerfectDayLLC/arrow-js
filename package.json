@@ -1,7 +1,8 @@
 {
-  "name": "bolton-arrow-js",
-  "version": "1.0.0",
+  "name": "@bolt-on-technology/arrow-js",
+  "version": "1.0.1",
   "title": "arrow-js",
+  "private": false,
   "description": "Arrow is a small JavaScript library for displaying a cross-browser downloads arrow.",
   "author": {
     "name": "Mauro Gesuitti",
