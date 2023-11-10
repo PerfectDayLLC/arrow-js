@@ -26,7 +26,7 @@ module.exports = function(grunt) {
          " * Contact: <%= pkg.author.email %>\n" +
          " *\n" +
          " *\n" +
-         " * Copyright (c) <%= grunt.template.today(\"yyyy\") %> Petar Bojinov\n" +
+         " * Copyright (c) <%= grunt.template.today(\"yyyy\") %> Bolt On Technology\n" +
          " * -------------------------------------------------------\n" +
          " */\n" +
          "\n",

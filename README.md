@@ -3,25 +3,27 @@
 
 Arrow.js is a tiny library (4.5kb gzipped) for displaying an arrow pointing to the browser download location. Perfect for pointing at that new file you downloaded!
 
+Forked from https://github.com/pbojinov/arrow-js
+
 ### Get Started
 
 Include the javascript in your HTML
 
 ```html
-<script type="text/javascript" src="bower_components/ArrowJS/src/js/arrow.js">
+<script type="text/javascript" src="node_modules/ArrowJS/src/js/arrow.js">
 ```
 
 Or use the minified version
 
 ```html
-<script type="text/javascript" src="bower_components/ArrowJS/dist/arrow-0.1.9.min.js">
+<script type="text/javascript" src="node_modules/ArrowJS/dist/arrow-1.0.0.min.js">
 ```
 
 ### Installing with Bower
 
 Bower requires [Node](http://nodejs.org/) and [npm](http://npmjs.org/). 
 
-    bower install arrow-js --save
+    npm install bolton-arrow-js --save
 
 ### How to use
 
@@ -99,13 +101,11 @@ Minified: 4547 bytes.
 
 ### Maintainer
 
-[Petar Bojinov](https://github.com/pbojinov)
+[Mauro Gesuitti](https://github.com/maurogesuitti)
 
 ### License
 
 The MIT License (MIT)
-
-Copyright (c) 2017 Petar Bojinov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

@@ -1,6 +1,5 @@
 /**
  * Project Name: ArrowJS
- * Name: Petar Bojinov
  * Github: https://github.com/pbojinov/arrowjs
  */
 
